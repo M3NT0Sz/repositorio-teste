@@ -1,5 +1,5 @@
 <?php
-$a = 1;
-$b = 2;
-$soma = $a + $b;
+$n1 = 1;
+$n2 = 2;
+$soma = $n1 + $n2;
 echo $soma;
