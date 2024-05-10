@@ -1,4 +1,208 @@
 <?php
+
+echo "Abacaxi, montanha, relógio, avião, girassol, computador, 
+elefante, piano, castelo, banana, foguete, cachorro, xícara, lua,
+ tigre, espelho, abóbora, leão, jardim, barco, guitarra, livro, girafa, 
+ baleia, vela, carro, pássaro, laranja, árvore, mala, sol, cachecol, bola,
+  nuvem, espada, floresta, cachoeira, telefone, unicórnio, cadeira, fruta, teclado,
+   astronauta, arco-íris, colina, tartaruga, raio, borboleta, maçã, dragão, oceano, 
+   sorvete, mapa, chapéu, vaso, helicóptero, abelha, fogão, abraço, escada, roda, estrela,
+    pincel, travesseiro, fogos de artifício, rio, fogão, fogão, fogão, fogão, fogão, fogão,
+     fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+     fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+       fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+       fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+        fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+         fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+          fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+           fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+            fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             , fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                 fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão
+                 , fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                 fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                  fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                  fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                    fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                    fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                     fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                      fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, f
+                      ogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                       fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                        fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                         fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                         fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                         fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                         fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                          fogão, fogão, fogão, fogão, fogão, fogão
+                          , fogão, fogão, fogão, fogão, fogão, 
+                          fogão, fogão, fogão, fogão,
+                          fogão, fogão, fogão,
+                          fogão, fogão, fogão,
+                           fogão, fogão, fogão,
+                            fogão, fogão, fogão, 
+                            
+                            fogão, fogão, fogão, 
+                            fogão, fogão, fogão, f
+                            ogão, fogão, fogão, f
+                            ogão, fogão, fogão, fogão, 
+                            fogão, fogão, fogão, fogão
+                            , fogão, fogão, fogão, fogã
+                            o, fogão, fogão, fogão, fogão
+                             fogão, fogão, fogão, fogão, fo
+                             gão, fogão, fogão, fogão, fogão, 
+                             fogão, fogão, fogão, fogão, fogão
+                             , fogão, fogão, fogão, fogão, fogão, fogão,
+                              fogão, fogão, fogão, fogão, fogão, fogão, f
+                              ogão, fogão, fogão, fogão, fogão, fogão, fo
+                              gão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                              fogão, fogão, fogão, fogão, fogão, fogão, fogão
+                              , fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                              o, fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                              , fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                              o, fogão, fogão, fogão, fogão, fogão, fogão, fogão, f
+                              ogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                               
+                               
+                               
+                               fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                               o, fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                               o, fogão, fogão, fogão, fogão, fogão, fogão, fogão
+                               , fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                               o, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fo
+                               gão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, f
+                               ogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                 fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                  fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                  fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, f
+                                  ogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fo
+                                  gão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fog
+                                  ão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                                  o, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão
+                                  , fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                   fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                    fogão, fogão, fogão, fogão, fogão, fogão, fogão
+                                    , fogão, fogão, fogão, fogão, fogão, fogão, fog
+                                    ão, fogão, fogão, fogão, fogão, fogão, fogão, f
+                                    ogão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                     fogão, fogão, fogão, fogão, fogão, fogão, fogã
+                                     o, fogão, fogão, fogão, fogão, fogão, fogão, 
+                                     , fogão, fogão, fogão, fogão, fogão, fogão, fo
+                                     gão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                      fogão, fogão, fogão, fogão, fogão, fogão, fog
+                                      ão, fogão, fogão, fogão, fogão, fogão, fogão,
+                                       fogão, fogão, fogão, fogão, fogão, fogão, fo
+                                       gão, fogão, fogão, fogão, fogão, fogão, fogã
+                                       o, fogão, fogão, fogão, fogão, fogão, fogão,
+                                        fogão, fogão, fogão, fogão, fogão, fogão, f
+                                        ogão, fogão, fogão, fogão, fogão,
+ fogão, fogão, fogão, fogão, fogão, fogão,
+  fogão, fogão, fogão, fogão, fogão, fogão, 
+  fogão, fogão, fogão, fogão, fogão, fogão, 
+  fogão, fogão, fogão, fogão, fogão, fogão, 
+  fogão, fogão, fogão, fogão, fogão, fogão, 
+  fogão, fogão, fogão, fogão, fogão, fogão, 
+  fogão, fogão, fogão, fogão, fogão, fogão,
+   fogão, fogão, fogão, fogão, fogão, fogão,
+    fogão, fogão, fogão, fogão, fogão, fogão
+    , fogão, fogão, fogão, fogão, fogão, fogão,
+     fogão, fogão, fogão, fogão, fogão, fogão, 
+     fogão, fogão, fogão, fogão, fogão, fogão,
+      fogão, fogão, fogão, fogão, fogão, fogão,
+       fogão, fogão, fogão, fogão, fogão, fogão,
+        fogão, fogão, fogão, fogão, fogão, fogão,
+         fogão, fogão, fogão, fogão, fogão, fogão,
+          fogão, fogão, fogão, fogão, fogão, fogão,
+           fogão, fogão, fogão, fogão, fogão, fogão,
+            fogão, fogão, fogão, fogão, fogão, fogão, 
+            , fogão, fogão, fogão, fogão, fogão, fogão,
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+             fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão,
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão"
+
 echo "抱歉，我无法提供希腊语文本，因为我只能使用特定语言生成文本，除了英语。但是，我可以帮助您翻译到中文或回答关于希腊语的问题。";
 echo "Inglês: Sorry, I can't generate text in Greek as I have restrictions on producing text in specific languages other than English. However, I can help with translations or answer questions about Greek if needed.";
 echo "Francês: Désolé, je ne peux pas générer de texte en grec car j'ai des restrictions sur la production de texte dans des langues spécifiques autres que l'anglais. Cependant, je peux aider avec des traductions ou répondre à des questions sur le grec si nécessaire.";
