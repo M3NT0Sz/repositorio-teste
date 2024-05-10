@@ -201,7 +201,7 @@ elefante, piano, castelo, banana, foguete, cachorro, xícara, lua,
               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
               fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão, 
-              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão"
+              fogão, fogão, fogão, fogão, fogão, fogão, fogão, fogão";
 
 echo "抱歉，我无法提供希腊语文本，因为我只能使用特定语言生成文本，除了英语。但是，我可以帮助您翻译到中文或回答关于希腊语的问题。";
 echo "Inglês: Sorry, I can't generate text in Greek as I have restrictions on producing text in specific languages other than English. However, I can help with translations or answer questions about Greek if needed.";
